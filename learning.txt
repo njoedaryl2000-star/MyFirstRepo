@@ -1,0 +1,4 @@
+so far in this course, I have learned 
+how to use Git and Github to manage projects. 
+I now understand how to clone repositories, create files,
+and track changes using commits.
